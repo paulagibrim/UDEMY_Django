@@ -1,0 +1,22 @@
+body{
+    background: rgb(255, 181, 154);
+}
+
+p{
+    color: rgb(70, 0, 0);
+    font-weight: bold;
+}
+
+span{
+    color:rgb(69, 0, 69);
+    font-weight: italic;    
+}
+
+.verde {
+    color: rgb(0, 61, 0);
+    font-size: 32px;
+} /* As configurações de classe sobressaem às de tag */
+
+#p2{
+    text-decoration: underline;
+}
